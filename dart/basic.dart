@@ -4,6 +4,7 @@ class Num{
   var  num=10;
 }
 main(){
+  
   // var firstname="nitish";
   // String lastname="kumar";
   // print(firstname+" "+lastname);
@@ -41,8 +42,8 @@ main(){
   // print(result);
 
 ///for-each loop
-    var num=[2,3,4,4,5,5,6,6,4,10];
-    // num.forEach((element){print(element);});
-     num.forEach((element)=>print(element));
+    // var num=[2,3,4,4,5,5,6,6,4,10];
+    // // num.forEach((element){print(element);});
+    //  num.forEach((element)=>print(element));
 
 }
