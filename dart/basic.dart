@@ -40,7 +40,7 @@ main(){
   // var result=x%2==0?'Even':'ODD';
   // print(result);
 
-///for-each loo[]
+///for-each loop
     var num=[2,3,4,4,5,5,6,6,4,10];
     // num.forEach((element){print(element);});
      num.forEach((element)=>print(element));
