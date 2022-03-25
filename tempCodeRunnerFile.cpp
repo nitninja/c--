@@ -1,1 +1,1 @@
-cout<<endl;
+int s=a.size()-1;
